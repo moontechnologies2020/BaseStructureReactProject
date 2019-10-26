@@ -1,3 +1,3 @@
-# curso-platzi-react-avanzado ⚛️
+﻿# Structure React Advanced Project
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+Repository dedicated to storage a skeleton of a React project, with the basic dependences and settings
