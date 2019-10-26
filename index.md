@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Documentation for projects on React
 
 You can use the [editor on GitHub](https://github.com/moontechnologies2020/BaseStructureReactProject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
